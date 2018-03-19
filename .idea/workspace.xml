@@ -53,9 +53,10 @@
       <file leaf-file-name="Pessoas.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/morae/mycontacts/Pessoas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+            <state relative-caret-position="272">
+              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
               <folding>
+                <element signature="e#484#485#0" expanded="true" />
                 <element signature="e#511#512#0" expanded="true" />
                 <element signature="e#551#552#0" expanded="true" />
                 <element signature="e#583#584#0" expanded="true" />
@@ -2273,9 +2274,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/example/morae/mycontacts/Pessoas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        <state relative-caret-position="272">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
           <folding>
+            <element signature="e#484#485#0" expanded="true" />
             <element signature="e#511#512#0" expanded="true" />
             <element signature="e#551#552#0" expanded="true" />
             <element signature="e#583#584#0" expanded="true" />
