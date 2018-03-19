@@ -1,7 +1,9 @@
 package com.example.morae.mycontacts;
 
 /**
- * Created by morae on 19/03/2018.
+ * @author Lucas de Souza Moraes
  */
 public class Pessoas {
+    String nome;
+    String sobrenome;
 }
